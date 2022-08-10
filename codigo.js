@@ -35,7 +35,7 @@ imagen:"./assets/pantalon.jpg",
 {
   nombre:"Campera",
   precio:7500,
-  imagen:"../assets/campera.jpg",
+  imagen:"./assets/campera.jpg",
 },
 ]
 
